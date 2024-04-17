@@ -27,7 +27,8 @@ Install my-project with npm
   node index.js
 ```
     
-## Screenshots
+## Video
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+https://drive.google.com/file/d/1-svn-631xOnOhX71EI1x2GykHiNStK25/view?usp=sharing
+
 
